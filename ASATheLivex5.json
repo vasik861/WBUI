@@ -1,0 +1,58 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/uet17UY.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 30
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Привет!!!",
+                    "title1": "Добро пожаловать на проект The Live. День рождения проекта  30.10.18г",
+                    "text1": "Ищете стабильный проект?\n\nВы его уже нашли!!!\n\n\nО нас:\n\nМы активная опытная администрация.\n\nНесем ответственность за то, что мы предоставляем, но также и от нашей аудитории мы ожидаем того же!",
+                    "imageurl": "https://i.imgur.com/Z1qnLcs.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Настройки",
+                    "title1": "Настройки:",
+                    "text1": "Опыт игрока х5.0\n\nСкорость приручения х5.0\n\nДобыча ресурсов х5.0\n\nСкорость инкубации х5.0\n\nСкорость роста детёнышей х5.0\n\nАвто-снос старых построек\n\nМаксимальный уровень диких динозавров - 200\n\nМаксимум уровней прокачки дино - 100 + 50\n\nМаксимальный уровень персонажей - 120, плюс вознесения - 220\n\nВремя хранения ресурсов, дино, персонажа в кластере - 1 неделя*\n\nПерезарядка переноса дино 1 минута.",
+                    "title2": "Моды:",
+                    "text2": "На данный момент мод только один, но я работаю над выбором.\n\n1. WBUI2",
+                    "imageurl": "https://i.imgur.com/N3EYTHv.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/invite/WntXbSX"
+                }
+            },
+            {
+                "link2": {
+                    "text": "VK",
+                    "url": "https://vk.com/arkthelive"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Донат",
+                    "url": "https://asathelivex5.survivalshop.org/"
+                }
+            }
+        ]
+    }
+}
